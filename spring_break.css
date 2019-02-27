@@ -1,0 +1,16 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: 180% georgia, sans-serif;
+	line-height: 1.88889;
+	color:crimson; 
+	background-image: url(Imagas/league.jpg);
+	margin: 0; 
+	padding: 0;
+	}
+p { 
+	margin-top: 0; 
+	text-align:center
+	}
