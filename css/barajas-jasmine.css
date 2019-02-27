@@ -3,3 +3,12 @@ body {
     font-size:1.2em;
     font-family:sans-serif;
 }
+.half {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+img{
+    max-width: 100%;
+    margin-left: 10%;
+}
