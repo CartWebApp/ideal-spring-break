@@ -1,0 +1,25 @@
+body {
+    font-size: 1.5em;
+    margin: 0;
+    max-width: 100%;
+    background-color: aliceblue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    border: 5px solid #98a8eb;
+    background-color: #deecf8;
+}
+
+h1 {
+    text-align: center;
+    color: #8294de;
+    background-color: #deecf8;
+    margin: 0;
+}
