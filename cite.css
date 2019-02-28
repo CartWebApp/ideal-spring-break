@@ -1,0 +1,17 @@
+* {
+    position: relative;
+    align-content: center;
+}
+h1, h2 {
+    padding-left: 35%;
+        border: 2%, gray;
+}
+img {
+    padding-left: 27%
+}
+
+body {
+    background-image: url(images/game.png);
+    background: fill;
+    font-family: monospace;
+}
