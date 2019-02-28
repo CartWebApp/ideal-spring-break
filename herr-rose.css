@@ -1,0 +1,44 @@
+body {
+    
+    background: #f4425f;
+    font-family: 'Laila', serif;
+    
+}
+
+p {
+    
+    font-size: 20px;
+    width: 50%;
+    
+}
+
+.Miku img {
+    
+    width: 70%;
+    
+}
+
+.phone img {
+    
+    width: 65%;
+    
+}
+
+.chair img {
+    
+    width: 40%;
+    
+    
+}
+
+.laptop img{
+    
+    width: 70%;
+    
+}
+
+.bffs img {
+    
+    width: 70%;
+    
+}
