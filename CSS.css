@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    background: black;
+
+}
+ p {
+    font-size: 1.5em;
+    color: white;
+    text-shadow: 1px 1px 1px;
+    border: silver 1px solid;
+    box-shadow: 1px 2px;
+    margin: 2%;
+    padding: 2%;
+    text-align: left;
+}
+
+h1{
+    margin: 0%;
+    margin-top: 2%;
+    padding: 1%;
+    border: none;
+    color: white;
+    font-size: 2em;
+}
+
+img {
+    text-align: right;
+    margin: 2%;
+    padding: 1%;
+    
+}
+
+.center {
+  display: block;
+  margin-left: 50%;
+  margin-right: 50%;
+}

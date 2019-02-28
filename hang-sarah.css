@@ -1,0 +1,31 @@
+body {
+    background: #adbcc9;
+    font-family: Calibri;
+    font-size: 120%;
+}
+
+.container {
+    border: 3px solid white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    align-content:space-around;
+    align-items: baseline;
+}
+
+.paragrapha {
+
+}
+
+.paragraphb{
+    
+}
+
+.imagea img{
+    width: 30%;
+}
+
+.imageb img {
+    width: 30%;
+}
