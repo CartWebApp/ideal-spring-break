@@ -1,0 +1,30 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    align-items: center;
+    height: vh
+}
+h1 {
+    text-align: center;
+}
+.p1 {
+    width: 50%;
+    font-size: 3vh;
+}
+
+.p2 {
+    width: 50%;
+    font-size: 3vh;
+}
+.yt{
+    width: 20%;
+}
+.pokemon{
+    width: 40%
+}
+body {
+    background-color: antiquewhite
+}
